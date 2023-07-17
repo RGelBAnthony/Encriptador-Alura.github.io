@@ -31,18 +31,19 @@
   .textArea1:focus{
     outline: none;
   }
-  .textArea2{
-    background-image: url(/img/Page.svg);
-    background-repeat: no-repeat;
-    border: none;
-    border: 24px;
-    color:#0a3871;
-    resize: none;
-    border-radius: 32px;
-    padding: 1rem;
-    margin-left: 4rem;
-    background-color: #ffffff;
-    }
+.textArea2 {
+  background-image: url(https://raw.githubusercontent.com/RGelBAnthony/Encriptador-Alura.github.io/main/img/Page.svg);
+  background-repeat: no-repeat;
+  border: none;
+  border: 24px;
+  color: #0a3871;
+  resize: none;
+  border-radius: 32px;
+  padding: 1rem;
+  margin-left: 4rem;
+  background-color: #ffffff;
+}
+
   .textArea2:focus{
     outline: none;
   }
