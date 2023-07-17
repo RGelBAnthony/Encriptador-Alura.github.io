@@ -29,13 +29,11 @@ function encriptar(texto) {
 }
 
 function btnDeseencriptar() {
-  const textoDesencriptado = desencriptar(textAreaDos.value);
-  textAreaUno.value = textoDesencriptado;
-  textAreaDos.value = "";
-  textAreaDos.style.backgroundImage = "";
-  
+  const textoDesencriptado = desencriptar(textAreaUno.value);
+  textAreaDos.value = textoDesencriptado;
+  textAreaUno.value = "";
+  textAreaDos.style.backgroundImage = "none";
 }
-
 
 function desencriptar(textoKey) {
   let key = [
@@ -60,11 +58,15 @@ function desencriptar(textoKey) {
 
 function borrarTextAreaUno() {
   textAreaUno.value = "";
+  textAreaDos.value = "";
+  textAreaDos.style.backgroundImage = "";
 }
 
 function copiarTexto() {
   var contenido = document.getElementById("textArea-2").value;
   navigator.clipboard.writeText(contenido)
+  textAreaUno.value = "";
+  textAreaDos.style.backgroundImage = "none";
  
 }
 
