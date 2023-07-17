@@ -14,6 +14,9 @@ Actualmente, se encuentra en beta, por lo cual pronto lanzaré la versión final
 - Solo permite caracteres en minúsculas.
 - Luego de ser cifrado el mensaje tendrá la opción de exportar el mensaje a su portapapeles.
 
+  ![image](https://github.com/RGelBAnthony/Encriptador-Alura.github.io/blob/main/img/gif.readme.gif)
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RGelBAnthony?tab=repositories)
