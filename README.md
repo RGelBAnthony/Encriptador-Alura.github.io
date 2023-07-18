@@ -1,22 +1,21 @@
 
-# Encriptador de Texto 
-Challenge
+# Encriptador de Texto - Challenge Alura
 
 Pagina prototipo lanzado por Alura Latam con el fin de aplicar codigo HTML, CSS y JavaScrip.
-
 Actualmente, se encuentra en beta, por lo cual pronto lanzaré la versión final de este proyecto individual con base a los conocimientos adquiridos con Alura Latam.
 
 
 ## Funciones a desctacar:
 
+![image](https://github.com/RGelBAnthony/Encriptador-Alura.github.io/blob/main/img/gif.readme.gif)
+
 - Cifra cualquier tipo de texto.
 - Descifra el mensaje encriptado.
 - Solo permite caracteres en minúsculas.
 - Luego de ser cifrado el mensaje tendrá la opción de exportar el mensaje a su portapapeles.
+## Funciones a pendintes por agregar:
 
-  ![image](https://github.com/RGelBAnthony/Encriptador-Alura.github.io/blob/main/img/gif.readme.gif)
-
-
+- Adaptacion para dispositivos moviles.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RGelBAnthony?tab=repositories)
